@@ -1,0 +1,55 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  img {
+    max-width: 25%;
+    max-height:15%;
+    padding-top: 20px;
+    justify-items: center;
+    align-items: center;
+  }
+  
+  .text {
+    font-size: 50px;
+    padding-top: 20px;
+    justify-items: center;
+    align-items: center;
+  }
+
+  .text2 {
+    font-size: 30px;
+    padding-top: px;
+    justify-items: center;
+    align-items: center;
+  }
+
+  .text3 {
+    font-size: 18px;
+    padding-top: 30px;
+    justify-items: left;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  .text4 {
+    font-size: 20px;
+    padding-top: 10px;
+    justify-items: center;
+    align-items: center;
+  }
+
+  @font-face {
+    font-family: Bungee;
+    src: url(font/Bungee.ttf);
+  }
